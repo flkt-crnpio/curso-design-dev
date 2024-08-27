@@ -1,0 +1,41 @@
+{
+  "name": "curso-design-dev",
+  "description": "Micrositio creado como material de apoyo para el 'Curso introductorio al HTML semántico y CSS para diseñadoras de interfaces digitales' en Agosto del 2024",
+  "keywords": [
+    "HTML",
+    "CSS",
+    "Semantic HTML",
+    "Design",
+    "Course",
+    "Learning"
+  ],
+  "type": "module",
+  "author": {
+    "name": "flkt crnpio",
+    "email": "flkt.crnpio@gmail.com",
+    "url": "https://flkt.mx/"
+  },
+  "license": "MIT",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "check-css": "npx stylelint '**/*.css'",
+    "check-js": "npx eslint"
+  },
+  "dependencies": {
+    "vue": "^3.4.29",
+    "vue-router": "^4.3.3"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.9.1",
+    "@vitejs/plugin-vue": "^5.0.5",
+    "eslint": "^9.9.1",
+    "eslint-plugin-vue": "^9.27.0",
+    "globals": "^15.9.0",
+    "prettier": "3.3.3",
+    "stylelint": "^16.8.1",
+    "stylelint-config-standard": "^36.0.1",
+    "vite": "^5.3.1"
+  }
+}
