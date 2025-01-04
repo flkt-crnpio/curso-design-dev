@@ -1,6 +1,6 @@
 {
   "name": "curso-design-dev",
-  "description": "Micrositio creado como material de apoyo para el 'Curso introductorio al HTML semántico y CSS para diseñadoras de interfaces digitales' en Agosto del 2024",
+  "description": "Micrositio creado como material de apoyo para el 'Curso introductorio al HTML semántico y CSS para diseñadoras de interfaces digitales'. Octubre del 2024",
   "keywords": [
     "HTML",
     "CSS",
@@ -16,7 +16,7 @@
     "url": "https://flkt.mx/"
   },
   "license": "MIT",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
