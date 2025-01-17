@@ -1,3 +1,4 @@
+import 'mol-normalize/mol/n.min.css'
 import './recursos/estilos.css'
 
 import { createApp } from 'vue'
